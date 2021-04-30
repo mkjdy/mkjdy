@@ -1,4 +1,4 @@
-### Hi there 👋  <img src="https://i.imgur.com/579PYMP.gif" width="40" height="40" />
+### Hi there 👋  <img src="https://i.imgur.com/579PYMP.gif" width="10" height="10" />
 
 <!--![Alt Text](https://i.imgur.com/579PYMP.gif)-->
 
