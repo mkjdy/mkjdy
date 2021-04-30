@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋  <img src="https://i.imgur.com/579PYMP.gif" width="40" height="40" />
 
 <!--![Alt Text](https://i.imgur.com/579PYMP.gif)-->
 
-<img src="https://i.imgur.com/579PYMP.gif" width="40" height="40" />
+<!--<img src="https://i.imgur.com/579PYMP.gif" width="40" height="40" />-->
 
 <!--
 **mkjdy/mkjdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
