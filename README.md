@@ -1,8 +1,6 @@
-### Hi there 👋  <img src="http://rubentd.com/img/banana.gif" width="29" height="32" />
+### Hi there 👋  <img src="http://rubentd.com/img/banana.gif" width="29" height="32" alt="GIF" />
 
-<!--![Alt Text](https://i.imgur.com/579PYMP.gif)-->
-
-<!--<img src="https://i.imgur.com/579PYMP.gif" width="40" height="40" />-->
+<!--![Alt Text](http://rubentd.com/img/banana.gif)-->
 
 <!--
 **mkjdy/mkjdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
