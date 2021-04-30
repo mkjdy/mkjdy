@@ -1,4 +1,4 @@
-### Hi there 👋  <img src="http://rubentd.com/img/banana.gif" width="25" height="30" />
+### Hi there 👋  <img src="http://rubentd.com/img/banana.gif" width="29" height="32" />
 
 <!--![Alt Text](https://i.imgur.com/579PYMP.gif)-->
 
