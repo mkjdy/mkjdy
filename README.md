@@ -9,6 +9,11 @@
 <h4 id="kk"></h4>
 {% document.getElementById("kk").innerHTML = "2020" %}
 <script\> document.getElementById("kk").innerHTML = "2020" </script\>
+<section data-markdown>
+    <script type="text/template">
+        Markdown body of a slide here ...
+    </script>
+</section>
 
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
 
