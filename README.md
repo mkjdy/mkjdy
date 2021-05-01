@@ -11,6 +11,17 @@ function samp() {
   document.getElementById("kk").innerHTML = "2020"
 }
 samp()
+
+---
+title: "Sample Document"
+output:
+  html_document:
+    toc: true
+    theme: united
+date: '`r format(Sys.time(), "%d %B, %Y")`'
+author: baptiste
+---
+
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
 
 <!--![Alt Text](http://rubentd.com/img/banana.gif)-->
