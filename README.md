@@ -6,6 +6,11 @@
 ### Tech skills <span style="color:red">2021</span>
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368" height="300px"/>
 
+<h4 id="kk"></h4>
+function samp() {
+  document.getElementById("kk").innerHTML = "2020"
+}
+samp()
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
 
 <!--![Alt Text](http://rubentd.com/img/banana.gif)-->
