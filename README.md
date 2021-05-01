@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning [laravel](https://laravel.com/)-[vuejs](https://vuejs.org/)
 - ⚡ Fun fact: I am only at __beginner level__
 
-### Tech skills ['`r format(Sys.Date(), "%B %d, %Y")`']
+### Tech skills <script>document.write(new Date().getFullYear())</script> 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368" height="300px"/>
 
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
