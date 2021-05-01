@@ -7,7 +7,7 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368" height="300px"/>
 
 <h4 id="kk"></h4>
-
+{% document.getElementById("kk").innerHTML = "2020" %}
 <script\> document.getElementById("kk").innerHTML = "2020" </script\>
 
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
