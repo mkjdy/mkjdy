@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I am only at __beginner level__
 
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=820" height="300px" block/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1820" height="300px"/>
 
 <!--![Alt Text](http://rubentd.com/img/banana.gif)-->
 
