@@ -6,7 +6,7 @@
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368" height="300px"/>
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px&width=1368" height="300px"/>
 
 <!--![Alt Text](http://rubentd.com/img/banana.gif)-->
 
