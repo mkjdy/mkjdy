@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning [laravel](https://laravel.com/)-[vuejs](https://vuejs.org/)
 - ⚡ Fun fact: I am only at __beginner level__
 
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy" height="400px"/>
+
 <!--![Alt Text](http://rubentd.com/img/banana.gif)-->
 
 <!--
