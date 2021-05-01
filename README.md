@@ -3,17 +3,8 @@
 - 🌱 I’m currently learning [laravel](https://laravel.com/)-[vuejs](https://vuejs.org/)
 - ⚡ Fun fact: I am only at __beginner level__
 
-### Tech skills <span style="color:red">2021</span>
+### Tech skills current year
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368" height="300px"/>
-
-<h4 id="kk"></h4>
-{% document.getElementById("kk").innerHTML = "2020" %}
-<script\> document.getElementById("kk").innerHTML = "2020" </script\>
-<section data-markdown>
-    <script type="text/template">
-        Markdown body of a slide here ...
-    </script>
-</section>
 
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
 
