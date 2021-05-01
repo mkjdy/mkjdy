@@ -7,10 +7,6 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368" height="300px"/>
 
 <h4 id="kk"></h4>
-function samp() {
-  document.getElementById("kk").innerHTML = "2020"
-}
-samp()
 
 <script\> document.getElementById("kk").innerHTML = "2020" </script\>
 
