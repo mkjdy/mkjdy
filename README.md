@@ -1,7 +1,7 @@
 <!-- <h1 align='center'>Greetings!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="http://rubentd.com/img/banana.gif" width="28px" alt="GIF" /> </h1> -->
 <!-- ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="http://rubentd.com/img/banana.gif" width="28px" alt="GIF" /> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Greetings!!!;I'am+Mark+Dy;To+View+More+Please+Visit+My+LinkIn;...End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&lines=Greetings!!!;I'am+Mark+Dy;To+View+More+Please+Visit+My+LinkIn;...End)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning [laravel](https://laravel.com/)-[vuejs](https://vuejs.org/)
 - ⚡ Fun fact: I am only at __beginner level__
@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- reference
+https://github.com/AlvaroIsrael
+https://github.com/DenverCoder1/readme-typing-svg 
+ -->
