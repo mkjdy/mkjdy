@@ -10,7 +10,9 @@
 
 **Technologies:**
 
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=1572B6)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 
 **Stay in touch:**
