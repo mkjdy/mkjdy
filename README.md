@@ -18,7 +18,7 @@
 
 **Stay in touch:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=fff)](https://linkedin.com/in/markdy "@markdy")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=fff)](https://ph.linkedin.com/in/mark-dy-53579a146 "@markdy")
 [![Gmail](https://img.shields.io/badge/-Email-blue?style=plastic&logo=Gmail&logoColor=fff)](https://gmail.com/markdy61 "@markdy61")
 
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
