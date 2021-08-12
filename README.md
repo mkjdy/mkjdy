@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- reference
+https://shields.io/
 https://github.com/AlvaroIsrael
-https://github.com/DenverCoder1/readme-typing-svg 
+https://github.com/DenverCoder1/readme-typing-svg
  -->
