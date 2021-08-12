@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning [laravel](https://laravel.com/)-[vuejs](https://vuejs.org/)
 - ⚡ Fun fact: I am only at __beginner level__
 
-### Tech skills - current year
+<!-- ### Tech skills - current year -->
+**Tech Skills - Current Year**
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368&bg=rgba(0,0,0,0)&padding=0" height="300px"/>
-
 **Technologies:**
 
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=plastic&logo=php&logoColor=fff)
