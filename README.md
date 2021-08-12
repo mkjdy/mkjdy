@@ -10,15 +10,16 @@
 
 **Technologies:**
 
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=1572B6)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=plastic&logo=php&logoColor=fff)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=plastic&logo=JavaScript&logoColor=fff)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=fff)
+![MySql](https://img.shields.io/badge/-MySql-blue?style=plastic&logo=MySQL&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=fff)
 
 **Stay in touch:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/markdy)
-[![Gmail](https://img.shields.io/badge/-Email-000?&logo=Gmail&logoColor=0077B5)](https://gmail.com/makdy61)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=fff)](https://linkedin.com/in/markdy)
+[![Gmail](https://img.shields.io/badge/-Email-blue?style=plastic&logo=Gmail&logoColor=fff)](https://gmail.com/makdy61)
 
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
 
