@@ -7,7 +7,7 @@
 
 <!-- ### Tech skills - current year -->
 **Tech Skills - Current Year**
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368&bg=rgba(0,0,0,0)&padding=0" height="300px"/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368&bg=rgba(255,255,255,0.5)&padding=0" height="300px"/>
 **Technologies:**
 
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=plastic&logo=php&logoColor=fff)
