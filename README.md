@@ -18,8 +18,8 @@
 
 **Stay in touch:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=fff)](@markdy)
-[![Gmail](https://img.shields.io/badge/-Email-blue?style=plastic&logo=Gmail&logoColor=fff)](@makdy61)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=fff)](@markdy "@markdy")
+[![Gmail](https://img.shields.io/badge/-Email-blue?style=plastic&logo=Gmail&logoColor=fff)](@makdy61 "@markdy61")
 
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
 
