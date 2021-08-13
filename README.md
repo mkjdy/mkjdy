@@ -14,7 +14,7 @@
 **Technologies:**
 
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=plastic&logo=php&logoColor=fff)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=plastic&logo=JavaScript&logoColor=fff)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=plastic&logo=JavaScript&logoColor=fff)](https://github.com/mkjdy?tab=repositories&q=&type=&language=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=fff)
 ![MySql](https://img.shields.io/badge/-MySql-blue?style=plastic&logo=MySQL&logoColor=fff)
 ![VBNET](https://img.shields.io/badge/-VB.NET-blue?style=plastic&logo=vbnet&logoColor=fff)
