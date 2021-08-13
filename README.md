@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I am only at __beginner level__
 
 <!-- ### Tech skills - current year -->
+<!-- kbd = border for image -->
 <!-- <kbd> -->
 <!-- </kbd> -->
 **Tech Skills - Current Year**
