@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=727E8A&lines=Greetings!!!;I'am+Mark+Dy;To+View+More+Please+Visit+My+LinkIn.;...End)](https://git.io/typing-svg)
 - 🌱 I’m currently learning [laravel](https://laravel.com/)-[vuejs](https://vuejs.org/)
-- ⚡ Fun fact: I am only at __beginner level__
+- ⚡ Fun fact: I am only at __beginner level__ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dee38e10-db68-462d-9df7-46b87d4c7876/ddwtlxw-b6c476dd-ca5c-443f-8594-54734be8c4d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlZTM4ZTEwLWRiNjgtNDYyZC05ZGY3LTQ2Yjg3ZDRjNzg3NlwvZGR3dGx4dy1iNmM0NzZkZC1jYTVjLTQ0M2YtODU5NC01NDczNGJlOGM0ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a1cagizvpgBuaVipBQrHgVMQ65MG0qBeDOhYgteTpMM" width="40px" alt="GIF" />
 
 <!-- ### Tech skills - current year -->
 <!-- kbd = border for image -->
