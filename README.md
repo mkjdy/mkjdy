@@ -12,7 +12,7 @@
 <!-- </kbd> -->
 **Tech Skills - Current Year**
 <!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368&bg=rgba(255,255,255,0.5)&padding=0" height="300px"/> -->
-[![C](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368&bg=rgba(255,255,255,0.5))](https://profile.codersrank.io/user/mkjdy/ "Tech Skills Chart Widget")
+[![C](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368&bg=rgba(255,255,255,0.5))](https://profile.codersrank.io/user/mkjdy/ "Tech Skills Chart Widget - Current Year")
 **Technologies:**
 
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=plastic&logo=php&logoColor=fff)
@@ -25,7 +25,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=LinkedIn&logoColor=fff)](https://ph.linkedin.com/in/mark-dy-53579a146 "@markdy")
 [![Gmail](https://img.shields.io/badge/-Email-blue?style=plastic&logo=Gmail&logoColor=fff)](https://gmail.com/markdy61 "@markdy61")
-
 <!--<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mkjdy&show-avatar=true&style=--border-radius:10px"/>-->
 
 <!--![Alt Text](http://rubentd.com/img/banana.gif)-->
