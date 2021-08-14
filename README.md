@@ -11,7 +11,8 @@
 <!-- <kbd> -->
 <!-- </kbd> -->
 **Tech Skills - Current Year**
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368&bg=rgba(255,255,255,0.5)&padding=0" height="300px"/>
+<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368&bg=rgba(255,255,255,0.5)&padding=0" height="300px"/> -->
+[![MySql](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=mkjdy&width=1368&bg=rgba(255,255,255,0.5)&padding=0)](https://profile.codersrank.io/user/mkjdy/)
 **Technologies:**
 
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=plastic&logo=php&logoColor=fff)
