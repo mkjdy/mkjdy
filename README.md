@@ -48,4 +48,5 @@ Here are some ideas to get you started:
 https://shields.io/
 https://github.com/AlvaroIsrael
 https://github.com/DenverCoder1/readme-typing-svg
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=727E8A&vCenter=true&lines=Greetings!!!;I'am+Mark+Dy;To+View+More+Please+Visit+My+LinkIn.;...End)](https://git.io/typing-svg)
  -->
