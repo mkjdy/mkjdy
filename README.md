@@ -5,6 +5,17 @@
 - 🌱 I’m currently learning [laravel](https://laravel.com/)-[vuejs](https://vuejs.org/)
 - ⚡ Fun fact: I am only a __beginner__
 
+<details>
+  <summary>More</summary>
+  <pre>
+    ┌──┤ OTHER ├─────────▰▰▰
+    │
+    ├─◈ <a href="https://ph.linkedin.com/in/mark-dy-53579a146">LinkedIn</a>
+    ├─◈ <a href="https://profile.codersrank.io/user/mkjdy">CodersRank</a>
+    │
+    └───────────────────────────────▰▰▰
+  </pre>
+</details>
 <!-- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dee38e10-db68-462d-9df7-46b87d4c7876/ddwtlxw-b6c476dd-ca5c-443f-8594-54734be8c4d5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RlZTM4ZTEwLWRiNjgtNDYyZC05ZGY3LTQ2Yjg3ZDRjNzg3NlwvZGR3dGx4dy1iNmM0NzZkZC1jYTVjLTQ0M2YtODU5NC01NDczNGJlOGM0ZDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a1cagizvpgBuaVipBQrHgVMQ65MG0qBeDOhYgteTpMM" width="40px" alt="GIF" />
  -->
 <!-- ### Tech skills - current year -->
