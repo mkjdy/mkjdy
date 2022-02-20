@@ -1,6 +1,6 @@
 <!-- <h1 align='center'>Greetings!!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="http://rubentd.com/img/banana.gif" width="28px" alt="GIF" /> </h1> -->
 <!-- ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="http://rubentd.com/img/banana.gif" width="28px" alt="GIF" /> -->
-<img align='right' width='98' height='100' src='https://github.com/mkjdy/mkjdy/blob/main/mario_giphy.gif' alt='Alvaro Israel Nunes Leite'></img>
+<img align='right' width='98' height='100' src='https://github.com/mkjdy/mkjdy/blob/main/mario_giphy.gif' alt='Mark Yd⁽⁷⁾' title='Hey, Keep Going'></img>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=727E8A&vCenter=true&lines=Greetings...;I'm+Mark+Yd⁽⁷⁾;Print('Hello+World');End...)](https://git.io/typing-svg)
 - 🌱 I’m currently learning [laravel](https://laravel.com/)-[vuejs](https://vuejs.org/)
 - ⚡ Fun fact: I am only a __beginner__
