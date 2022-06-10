@@ -5,6 +5,12 @@
 - 🌱 I’m currently learning [laravel](https://laravel.com/)-[vuejs](https://vuejs.org/)
 - ⚡ Fun fact: I am only a __beginner__
 
+<details>
+  <summary>Ophidia</summary>
+  
+  ![snake gif](https://github.com/mkjdy/mkjdy/blob/output/github-contribution-grid-snake.gif)
+</details>
+
 <!-- <details>
   <summary>More</summary>
   <pre>
