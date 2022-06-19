@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I am only a __beginner__
 
 <details>
-  <summary>Ophidia</summary>
+  <summary>Ophidia 𓆚</summary>
   
   ![snake gif](https://github.com/mkjdy/mkjdy/blob/output/github-contribution-grid-snake.gif)
 </details>
